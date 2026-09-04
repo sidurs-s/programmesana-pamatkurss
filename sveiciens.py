@@ -1,1 +1,1 @@
-print("Brotatochip")
+print("Mainas mainas un mainas")
