@@ -4,7 +4,7 @@ Autors: **Roberts Apse**
 
 ## Kā palaist
 
-- Lowkey nezinu
+- Palaid failu terminālī
 
 ## License
 
